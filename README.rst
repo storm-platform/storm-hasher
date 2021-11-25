@@ -12,32 +12,27 @@ Checksum helper library for Storm platform
 
 
 .. image:: https://img.shields.io/badge/license-MIT-green
-        :target: https://github.com//brazil-data-cube/storm-hasher/blob/master/LICENSE
+        :target: https://github.com//storm-platform/storm-hasher/blob/master/LICENSE
         :alt: Software License
 
-
-.. image:: https://drone.dpi.inpe.br/api/badges/brazil-data-cube/storm-hasher/status.svg
-        :target: https://drone.dpi.inpe.br/brazil-data-cube/storm-hasher
-        :alt: Build Status
-
-
-.. image:: https://codecov.io/gh/brazil-data-cube/storm-hasher/branch/master/graph/badge.svg
-        :target: https://codecov.io/gh/brazil-data-cube/storm-hasher
-        :alt: Code Coverage Test
-
-
-.. image:: https://readthedocs.org/projects/storm_hasher/badge/?version=latest
-        :target: https://storm_hasher.readthedocs.io/en/latest/
-        :alt: Documentation Status
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+   :target: https://github.com/psf/black
 
 
 .. image:: https://img.shields.io/badge/lifecycle-maturing-blue.svg
         :target: https://www.tidyverse.org/lifecycle/#maturing
         :alt: Software Life Cycle
 
+.. image:: https://codecov.io/gh/storm-platform/storm-hasher/branch/master/graph/badge.svg
+        :target: https://codecov.io/gh/storm-platform/storm-hasher
+        :alt: Code Coverage Test
 
-.. image:: https://img.shields.io/github/tag/brazil-data-cube/storm-hasher.svg
-        :target: https://github.com/brazil-data-cube/storm-hasher/releases
+.. image:: https://readthedocs.org/projects/storm_hasher/badge/?version=latest
+        :target: https://storm_hasher.readthedocs.io/en/latest/
+        :alt: Documentation Status
+
+.. image:: https://img.shields.io/github/tag/storm-platform/storm-hasher.svg
+        :target: https://github.com/storm-platform/storm-hasher/releases
         :alt: Release
 
 
@@ -55,4 +50,4 @@ About
 =====
 
 
-A helper library in Python for SpatioTemporal Open Research Manager (Storm)
+A helper library in Python for SpatioTemporal Open Research Manager (Storm).
