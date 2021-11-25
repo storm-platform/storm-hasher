@@ -12,7 +12,4 @@ from .hasher import StormHasher
 
 from .version import __version__
 
-__all__ = (
-    "__version__",
-    "StormHasher"
-)
+__all__ = ("__version__", "StormHasher")

@@ -26,7 +26,6 @@ SUPPORTED_ALGORITHMS = {
 
 @typechecked
 class StormHasher:
-
     def __init__(self, algorithm: str = "sha256", chunk_size: int = 4096):
         algorithm_fnc = SUPPORTED_ALGORITHMS.get(algorithm)
 
@@ -92,6 +91,4 @@ class StormHasher:
         return algorithm_obj.hexdigest()
 
 
-__all__ = (
-    "StormHasher"
-)
+__all__ = "StormHasher"
