@@ -10,13 +10,8 @@ Changes
 =======
 
 
-Version 0.1.0
--------------
+Version 0.1.0 (2022-05-27)
+--------------------------------
 
-
-Released 2020
-
-
-- Source code versioning based on `Semantic Versioning 2.0.0 <https://semver.org/>`_.
-
-- License: `MIT <https://github.com/brazil-data-cube/storm-hasher/blob/master/LICENSE>`_.
+- Initial public API version;
+- Implemented the ``StormHasher``, a helper class to manage the application of hash algorithms in files and strings.
